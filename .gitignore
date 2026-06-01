@@ -1,0 +1,15 @@
+# Generated outputs
+outputs/*
+!outputs/.gitkeep
+
+# Source data (not redistributed)
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
